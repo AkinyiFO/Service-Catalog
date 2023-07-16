@@ -1,3 +1,3 @@
 # Service Catalog
-Simple Service Catalog Template to deploy VPC.
-Source: https://catalog.workshops.aws/service-catalog/en-US
+Simple CloudFormation Template.
+It was used as a Service Catalog Product Template at source: https://catalog.workshops.aws/service-catalog/en-US
